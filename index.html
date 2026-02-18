@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Modern To-Do List</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <div class="todo-app">
+        <h2 class="title">
+          To-Do List
+          <img
+            src="https://cdn-icons-png.flaticon.com/512/4697/4697260.png"
+            width="30px"
+            alt="Todo Icon"
+          />
+        </h2>
+
+        <div class="row">
+          <input type="text" id="input-box" placeholder="Add your task..." />
+          <button type="button" onclick="addTask()">Add</button>
+        </div>
+
+        <ul id="list-container"></ul>
+
+        <button type="button" class="btn-clear" onclick="clearAllTasks()">
+          Clear All Tasks
+        </button>
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>

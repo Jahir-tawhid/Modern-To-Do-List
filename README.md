@@ -23,7 +23,7 @@ A professional and clean To-Do List application that helps users manage their da
 - `script.js`: Core logic and functionality.
 
 
- Live Link: https:
+ Live Link:  https://jahir-tawhid.github.io/Modern-To-Do-List/
 
 Linkedin: www.linkedin.com/in/jahirtawhid
 

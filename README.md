@@ -21,4 +21,10 @@ A professional and clean To-Do List application that helps users manage their da
 - `index.html`: Structural markup.
 - `style.css`: Visual styling and layout.
 - `script.js`: Core logic and functionality.
-  
+
+
+ Live Link: https:
+
+Linkedin: www.linkedin.com/in/jahirtawhid
+
+Email: jahirtawhid1988@gmail.com
